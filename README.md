@@ -1,6 +1,6 @@
-# aiodownloader
+# All in one downloader
 
-A new Flutter project.
+An app for downloading videos from multiple platforms
 
 ## Getting Started
 
