@@ -1,6 +1,6 @@
 # All in one downloader
 
-An app for downloading videos from multiple platforms
+An app for downloading videos from multiple platforms download
 
 ## Getting Started
 This project is a starting point for a Flutter application.
